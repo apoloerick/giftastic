@@ -1,0 +1,22 @@
+h1{ text-align:center;
+	font-weight: bold;
+	font-size: 400%;
+	font-family: comic;
+	color: white;
+
+}
+body{
+	
+	background-image: url(http://www.hotwallpapersforfree.com/images/thumb/html-Computer-Wallpapers,-Desktop-Backgrounds-28382.jpg);
+	background-repeat: no-repeat;
+	background-position: center static;
+	background-size: 100%;
+	
+}
+#moviesView{
+	box-sizing: 70%;
+}
+
+.jumbotron{
+	opacity: .5;
+}
